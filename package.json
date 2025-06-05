@@ -11,7 +11,7 @@
     "node",
     "js"
   ],
-  "author": "monkeywit",
+  "author": "candycast",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
